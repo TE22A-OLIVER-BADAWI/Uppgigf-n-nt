@@ -1,0 +1,20 @@
+#Rubrik{
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+    font-family: 'Roboto';
+}
+
+    div{
+        background-color: grey;;
+        /* border: linj_storlk typ_linje linje_färg; */
+        border:5px
+     solid black;
+     margin-left: 15px;
+margin-right: 15px;    }
+h2{
+    text-align: center;
+}
+body{
+    background-image:url(./bilder.img/showcase.jpg) ;
+}
